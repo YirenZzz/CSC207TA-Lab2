@@ -20,11 +20,14 @@ public class DataTypesTest {
         // saying "Integer number too large".
         // Note: You can use _ to help make it easier to
         //       read large numbers, as is done below.
-        long x = 500_000_500_000L;
-        List<Integer> lst = new ArrayList<>();
-        for (int i = 1; i <= 1_000_000; i++) {
-            lst.add(i);
-        }
+        long x = 500_000_500_000L; // defining data type of x as a long used to represent large numbers
+        List<Integer> lst = new ArrayList<>();  // declaring and assigning variable lst to an empty Array
+        for (int i = 1; i <= 1_000_000; i++) { // looping through from 1 to 1 million
+            lst.add(i);  // adding number to lst
+
+        } // makes a list of numbers from 1 to 1 million
         assertEquals("sum from 1 to 1 million should be " + x, x, DataTypes.sum(lst));
     }
+
+    // why is sum different
 }
