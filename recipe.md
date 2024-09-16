@@ -21,6 +21,9 @@
 7. Gradually add the milk and vegetable oil to the mixture, continuing to stir.
 8. Line the bottom of the baking pan with parchment paper for easy cake removal.
 9. Pour the batter into a greased and floured 9x13-inch baking pan.
+10. Bake for 35 minutes or until soft. 
+11. Serve in a glass Pyrex bowl and let cool down for 15 minutes
+
 
 
 
