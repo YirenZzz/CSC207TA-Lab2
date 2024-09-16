@@ -8,6 +8,9 @@ import static org.junit.Assert.assertEquals;
 
 public class DataTypesTest {
 
+    public static void main(String[] args) {
+    }
+
     @Test(timeout = 1000)
     /**
      * Test that DataTypes.sum returns the correct value for
